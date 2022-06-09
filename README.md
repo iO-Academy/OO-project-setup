@@ -1,5 +1,5 @@
 # OO Practice
 
 Clone the repo  
-Run `composer dump-autoload`  
-If no global composer install, run `php composer.phar dump-autoload`
+Run `composer install`  
+If no global composer install, run `php composer.phar install`
